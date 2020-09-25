@@ -119,6 +119,8 @@ def calc_game_stats(correct, total):
         print("You only played once :( try again sometime!")
 
 
+# main method to get the game started
+
 def main():
     print('Welcome to Guess the Tweeter!\n'
           '\nYou will enter two twitter usernames (or you can play with the default @elonmusk and @kaynewest)'
